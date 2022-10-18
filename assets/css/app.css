@@ -1,0 +1,48 @@
+/* footer  */
+.footercolor{
+    background-color: #f8f9fa;
+  }
+  ul>li{
+  list-style-type: none;
+  }
+ 
+.bggrdnt{
+border-radius: 30px;
+width: 95%;
+
+box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+
+
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.1); /* Black background with 0.5 opacity */
+}
+.bggrdnt:hover{
+  border: 1px solid #d16ba5;
+box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+
+}
+
+select,input:hover{
+  border: 1px solid #d16ba5;
+
+}
+
+
+
+/* darktheme  */
+
+
+.bodytheme{
+  background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1)!important;
+   color: black;
+  }
+  
+.dark-mode {
+  background-color: black!important;
+  color: white;
+}
+/* darktheme  */
+.logout{
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.backg-gradient{
+border-radius: 30px;
+
+
+box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+
+
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.1); /* Black background with 0.5 opacity */
+}
+.backg-gradient:hover{
+  border: 1px solid #d16ba5;
+box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+
+}
+
+select, input:hover{
+  border: 1px solid #d16ba5;
+
+}
+.sign_up{
+  color: #50FBDF;
+}
+
+
+body{
+background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+ 
+}
